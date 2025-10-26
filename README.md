@@ -10,5 +10,7 @@ apt list | grep -v installed
 
 
 
+sudo apt update
+sudo apt install discord -y
 
 
