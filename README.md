@@ -1,2 +1,3 @@
-cd ~/Downloads
+ls -1
+
 
